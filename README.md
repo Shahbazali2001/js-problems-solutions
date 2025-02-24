@@ -1,8 +1,4 @@
-# js-problems-solutions
-"33 JavaScript Challenges" – A collection of 33 JavaScript problem-solving exercises to enhance coding skills. Each problem includes a clear solution with explanations. 🚀
-
-
-# 33 JavaScript Challenges 🚀
+#JavaScript Challenges 🚀
 
 This repository contains solutions to **33 JavaScript problems**, aimed at improving problem-solving skills and deepening JavaScript knowledge. Each solution includes a clear explanation and optimized approach.
 
